@@ -23,7 +23,7 @@
 
 ## ⭐ *Top Languages*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmine1212&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariemaljene&theme=radical)
 <!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariemaljene&theme=radical&layout=compact) -->
 
 ## 📊 *GitHub Stats*
