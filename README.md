@@ -24,6 +24,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariemaljene" alt="mariemaljene" /></a> </p>
 
+## ⭐ *Top Languages*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmine1212&theme=radical)
+<!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmine1212&theme=radical&layout=compact) -->
 
 
 
