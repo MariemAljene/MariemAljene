@@ -24,13 +24,13 @@
 ## ⭐ *Top Languages*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmine1212&theme=radical)
-<!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmine1212&theme=radical&layout=compact) -->
+<!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariemaljene&theme=radical&layout=compact) -->
 
 ## 📊 *GitHub Stats*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedAmine1212&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariemaljene&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MedAmine1212&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
-<a href="http://www.github.com/Mariemaljene"><img src="https://activity-graph.herokuapp.com/graph?username=MedAmine1212&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Mariemaljene"><img src="https://activity-graph.herokuapp.com/graph?username=Mariemaljene&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## 🏆 *Github Profile Trophy*
 
