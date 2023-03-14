@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mariem Aljene</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariemaljene&label=Profile%20views&color=0e75b6&style=flat" alt="mariemaljene" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariemaljene" alt="mariemaljene" /></a> </p>
+<h3 align="center">Software Engineering Student (2nd year of engineering Cycle) </h3>
 
 - 🔭 I’m currently working on [Esprit's Mobility Department Website](https://github.com/MariemAljene/PI-4SAE3-Mobilite.git)
 
@@ -15,6 +9,12 @@
 - 📫 How to reach me **mariem.aljene@esprit.tn**
 
 - ⚡ Fun fact **I think I am Funny**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariemaljene&label=Profile%20views&color=0e75b6&style=flat" alt="mariemaljene" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariemaljene" alt="mariemaljene" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
