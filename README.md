@@ -30,11 +30,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedAmine1212&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MedAmine1212&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
-<a href="http://www.github.com/MedAmine1212"><img src="https://activity-graph.herokuapp.com/graph?username=MedAmine1212&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Mariemaljene"><img src="https://activity-graph.herokuapp.com/graph?username=MedAmine1212&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## 🏆 *Github Profile Trophy*
 
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=MedAmine1212&theme=radical&row=1&column=10)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Mariemaljene&theme=radical&row=1&column=10)
 
 
 
