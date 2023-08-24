@@ -4,7 +4,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 
-- 🔭 I'm currently doing an internship at Bridges SA
+- 🔭 I'm currently doing a summer internship at Bridges SA
 
 
 - 📫 How to reach me **mariem.aljene@esprit.tn**
