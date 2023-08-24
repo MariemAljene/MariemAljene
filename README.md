@@ -4,9 +4,8 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 
-- 🔭 I’m currently working on [Esprit's Mobility Department Website](https://github.com/MariemAljene/PI-4SAE3-Mobilite.git)
+- 🔭 I'm currently doing an internship at Bridges SA
 
-- 🌱 I’m currently learning **Spring Boot, Angular**
 
 - 📫 How to reach me **mariem.aljene@esprit.tn**
 
