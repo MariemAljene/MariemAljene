@@ -10,9 +10,7 @@
 - 📫 How to reach me **mariemaljene6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[www.linkedin.com/in/mariemaljene](https://www.linkedin.com/in/mariemaljene/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/mariemaljene/)" alt="mariem aljene" height="30" width="40" /></a>
-</p>
+
 <h2>🚀 Some Tools I Use</h2>
 
 - <h3 align="left">Languages and Tools:</h3>
