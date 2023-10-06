@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Mariem Aljene</h1>
-<h3 align="center">Software Engineering Student (2nd year of engineering Cycle) </h3>
+<h3 align="center">Exchange Student in Sophia Antipolis ( Double Degree ) </h3>
 <h2>⚡️ A Few Quick Facts</h2>
 
 
-- 🔭 I'm currently a Post master student in Security in Computer Systems and Communications at Eurecom ( Sophia Antipolis)
+- 🔭 I'm currently a Post master student in Security in Computer Systems and Communications at Eurecom  .
 
 
 - 📫 How to reach me **mariem.aljene@esprit.tn**
