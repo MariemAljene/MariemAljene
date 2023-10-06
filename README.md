@@ -7,7 +7,7 @@
 - 🔭 I'm currently a Post master student in Security in Computer Systems and Communications at Eurecom  .
 
 
-- 📫 How to reach me **mariem.aljene@esprit.tn**
+- 📫 How to reach me **mariemaljene6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
