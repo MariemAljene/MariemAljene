@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **mariemaljene6@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 
 <h2>🚀 Some Tools I Use</h2>
 
